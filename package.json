@@ -1,0 +1,19 @@
+{
+  "name": "webpack-react-app",
+  "version": "1.0.0",
+  "description": "react-redux app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Divyaranjan47/ReactWebpack.git"
+  },
+  "author": "Divyaranjan Deviprasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Divyaranjan47/ReactWebpack/issues"
+  },
+  "homepage": "https://github.com/Divyaranjan47/ReactWebpack#readme"
+}
